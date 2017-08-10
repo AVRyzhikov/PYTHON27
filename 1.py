@@ -10,6 +10,9 @@ b=[31, 19, 11, 99, 41, 49, 61, 69, 91, 79]
 
 for bi in range(len(b)):
 	b[bi]=[b[bi]]
+	b[bi]=[b[bi]]
+	b[bi]=[b[bi]]
+
 
 for ai in range(len(a)-1):
 	# right moving
